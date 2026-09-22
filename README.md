@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahaduzzaman Ahad</h1>
-<h3 align="center">A Junior MERN Stack Developer from Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Ahaduzzaman</h1>
+<h3 align="center">A Junior MERN Stack Developer from Bangladesh. Looking for Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahaduzzaman5503&label=Profile%20views&color=0e75b6&style=flat" alt="ahaduzzaman5503" /> </p>
 
